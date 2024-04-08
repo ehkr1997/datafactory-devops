@@ -1,0 +1,9 @@
+{
+	"name": "dev-datafactory-git",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6299f3b5-bd46-41f1-a138-9dba18cbf537",
+		"tenantId": "b3dce6d5-9baf-4027-8ef5-9667b94ad0a4"
+	}
+}
